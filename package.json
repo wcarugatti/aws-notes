@@ -1,0 +1,25 @@
+{
+  "name": "aws-notes",
+  "version": "1.0.0",
+  "description": "This is a simple Notes App built with ReactJS and AWS backend services including AWS Lambda, DynamoDB, API Gateway, and Cognito. The app allows users to create, read, update, and delete notes.",
+  "main": "src/graphql.js",
+  "dependencies": {
+    "apollo-server-lambda": "^2.16.1",
+    "graphql": "^14.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wcarugatti/aws-notes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wcarugatti/aws-notes/issues"
+  },
+  "homepage": "https://github.com/wcarugatti/aws-notes#readme"
+}
